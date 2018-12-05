@@ -82,5 +82,10 @@
             结果
         else:
             结果
-12.while
+    单选(一个if)
+    多选(多个if)
+    二选一(if-else)
+    多选一(if-elif-els)
+    嵌套的if-elif-else    
+12.while(循环)
 """
